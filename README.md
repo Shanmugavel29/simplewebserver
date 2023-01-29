@@ -43,8 +43,9 @@ httpd.serve_forever()
 ```
 ### OUTPUT
 ### Server Side Output:
-   ![GitHub Logo](./images/server%20output.png)
-### Server Side Output:
+   ![server side output](serveroutput.png)
+### Client Side Output:
+   ![server side output](clientoutput.png)
    
 
 
